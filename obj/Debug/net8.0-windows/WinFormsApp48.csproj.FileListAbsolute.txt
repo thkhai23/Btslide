@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\WinFormsApp48\bin\Debug\net8.0-windows\WinFormsApp48.exe
+C:\Users\asus\source\repos\WinFormsApp48\bin\Debug\net8.0-windows\WinFormsApp48.deps.json
+C:\Users\asus\source\repos\WinFormsApp48\bin\Debug\net8.0-windows\WinFormsApp48.runtimeconfig.json
+C:\Users\asus\source\repos\WinFormsApp48\bin\Debug\net8.0-windows\WinFormsApp48.dll
+C:\Users\asus\source\repos\WinFormsApp48\bin\Debug\net8.0-windows\WinFormsApp48.pdb
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\WinFormsApp48.Form1.resources
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\WinFormsApp48.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\WinFormsApp48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\WinFormsApp48.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\WinFormsApp48.AssemblyInfo.cs
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\WinFormsApp48.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\WinFormsApp48.dll
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\refint\WinFormsApp48.dll
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\WinFormsApp48.pdb
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\WinFormsApp48.genruntimeconfig.cache
+C:\Users\asus\source\repos\WinFormsApp48\obj\Debug\net8.0-windows\ref\WinFormsApp48.dll
